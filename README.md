@@ -1,3 +1,8 @@
 # PARCEL DELIVERY MANAGER SYSTEM
+Parcel Handler System
 
-A new Flutter project.
+## Platforms
+- iOS
+- Android
+- Web
+- Desktop
